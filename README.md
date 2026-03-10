@@ -1,19 +1,16 @@
-Hi, I'm Niv 👋
+# Hi, I'm Niv 👋
 
 Computer Science student at HIT.
 
-Interested in:
-• Systems programming
-• Networking
-• Simulation engines
+I enjoy building systems projects in C, networking tools and simulations.
 
-Projects
+## Projects
 
-PokeCim
+🧬 **PokeCim**  
 Terminal Pokédex written in C
 
-Chat System
-TCP client-server chat with GUI
+💬 **Chat System**  
+TCP client-server chat application with GUI
 
-PlagueSim
+☣️ **PlagueSim**  
 Disease spread simulation inspired by Plague Inc
